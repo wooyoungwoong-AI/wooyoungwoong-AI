@@ -1,4 +1,4 @@
-youngwoong Woo
+YoungWoong Woo
 ============
 ## Working at MNVISION
 
